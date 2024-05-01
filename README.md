@@ -1,6 +1,6 @@
-# Sleep Disorder Diagnostic System
+# Diagnostic System for Sleep Disorder
 
-Welcome to the repository for our advanced diagnostic system dedicated to identifying sleep disorders. This system employs machine learning to analyze sleep health data, offering valuable insights into sleep patterns and potential disruptions.
+Welcome to the repository for our advanced diagnostic system dedicated to identifying sleep disorders Sleep Apnea and Insomnia. This system employs machine learning to analyze sleep health data, offering valuable insights into sleep patterns and potential disruptions.
 
 ## Features
 
